@@ -8,6 +8,7 @@ Three different obstacles made to be used in a simulation for an USV (unmanned s
 ![Buoy Render](./Buoy/Images/LifeBuoy.png)
 ![Buoy Render](./Buoy/Images/Buoy.png)
 ![Can Render](./Can/Images/SodaCan.png)
+![Water Lilies](./Lilipads/Images/USV.png)
 
 ## About
 
